@@ -10,3 +10,4 @@ huggingface_hub
 pypdf
 sentence-transformers
 faiss-cpu
+chromadb
