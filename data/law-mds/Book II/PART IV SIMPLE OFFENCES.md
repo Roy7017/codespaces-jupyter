@@ -1,6 +1,8 @@
 # PART IV: SIMPLE OFFENCES
 
-## SECTION 362 to 370 :
+## CHAPTER I: SIMPLE OFFENCES
+
+## SECTION 362 to 370 :  SIMPLE OFFENCES
 
 The provisions of Section 362 to 370 which define
 offences shall be laid down by regulation.

@@ -1,4 +1,6 @@
-# STATE LAWS
+# PART IV: STATE LAWS
+
+## CHAPTER 1: STATE LAWS
 
 ## SECTION 101 : Breach of State Laws and Others
 

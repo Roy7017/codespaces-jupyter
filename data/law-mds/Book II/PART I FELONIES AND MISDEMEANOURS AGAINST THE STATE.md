@@ -11,7 +11,7 @@ Any citizen:
 - a) taking part in hostilities against the Republic;
 - b) or assisting or offering to assist the said hostilities; shall be guilty of treason and punished with death.
 
-## SECTION 103; Other Felonies Punishable with Death
+## SECTION 103: Other Felonies Punishable with Death
 
 Shall, if a citizen, be guilty of treason and, if a foreigner, be guilty of espionage, and shall in either case be punished with death whoever:
 
@@ -339,7 +339,7 @@ shall be punished with fine of from CFAF 500 000 (five hundred thousand) to CFAF
 2. The accessory penalties provided for in Sections 33, 34 and 35 of this Code may also be imposed by the competent court.
 3. The competent court may, in addition, and if need be, impose a fine higher than the amounts provided for in Subsection 1 above and up to ten fold the profit made. The amount imposed shall not be lower than the said profit.
 
-## SECTION 136 Interest in concern
+## SECTION 136: Interest in concern
 
 1. Any person whose duties include the supervision of any concern
 undertaking or concession, or the expression of an opinion on its operations and who, in any manner, assists or shares in its financing or operation, shall be punished with imprisonment for from 6 (six) months to 2 (two) years or with fine of from CFAF 20 000 (twenty thousand) to CFAF 2 000 000 (two
@@ -360,7 +360,7 @@ Any public servant or public employee who grants exemption from any fee, due, du
 
 Any public servant or foreign public employes, having knowledge of any cash or book deficiency in the accounts of a public employee under his orders or supervision, and failing to report the deficiency to the legal authorities or to his immediate superior, shall be punished with imprisonment for from 1 (one) to 5 (five) years and with fine of from CFAF 130 000 (one hun ired thousand) ta CFAF 1 000 000 one million).
 
-## SECTION 139. Negligent Custody
+## SECTION 139: Negligent Custody
 
 Any custodian who by negligence permits
 
@@ -372,7 +372,7 @@ Section 187 of this Code, shall be punished with imprisonment for from 1 (one) m
 
 ## D - OFFENCES AGAINST PRIVATE INTERESTS
 
-## SECTION140 : Abuse of function
+## SECTION 140 : Abuse of function
 
 1. Any public servant or foreign public employee who takes advantage of his position to infringe any private right or interest. shall be punished with imprisonment for from 1 (one) to 3 (three) years or with fine of from CFAF 5 000 (five thousand) to CFAF 50 000 (fifty thousand) or with both such imprisonment and fine.
 2. Where the offence is committed with the intent to procure to the offender or to another any gain of any kind, imprisonment, shall be for from 2 (two) to 10 (ten) years and with fine of from CFAF 50 000 (fifty thousand) to CFAF 1 000 000 (one million).
@@ -501,7 +501,7 @@ punishment shall be imprisonment for life.
 1. Where the offence defined in the last foregoing Section is committed by 5 (five) or more persons together the punishment shall be imprisonment for from 1 (one) to (3) three years, and where at least 2 (two) of them openly bear arms the imprisonment shall be for from 5 (five) to 15 (fifteen) years.
 2. Any co-offender who himself bears arms, open or concealed, shall be punished with imprisonment for from 5 (five) to15 (fifteen) years.
 
-## SECTION 159 Political Resistance (repealed)
+## SECTION 159: Political Resistance (repealed)
 
 ## C — INFLUENCE AND FRAUD
 
@@ -510,7 +510,7 @@ punishment shall be imprisonment for life.
 Whoever oy interference or threat procures a public servant improperly
 to perform or to refrain from any act of his office, shall be punished with imprisonment for from 2 (two) to 10 (ten) years and with fine of from CFAF 20 000 (twenty thousand) to 1 000 000 (one million).
 
-## SECTION 161; Procuring Influence.
+## SECTION 161: Procuring Influence.
 
 1. Whoever by assault or threat or by gift or promise corrupts a person having any influence, real or supposed, with interest to procure any advantage from any public authority, shall be punished in like manner as under Section 160.
 2. Any public servant or public employee who for himself or a third party solicits, receives or accepts any offer, promise or gift to procure any advantage from any public authority or body placed under the control of the public authority, any contract, operation or other benefit arising from agreements concluded with pubic authority or a body placed under the control of the public authority and in this way taking undue advantage of the real or supposed influence that his status or office has conferred upon him shall be punished in like manner as under Section 160 of this Code.
@@ -607,7 +607,7 @@ Any person whose assistance has been regularly required as expert, medical pract
 
 Any person summoned as juror or assessor who without just cause fails to appear or to take oath or to affirm as required by law or withdraws before the termination of his duties, shall be punished with imprisonment for 6 (six) days to 3 (three) months and with fine of from CFAF5 000 (five thousand) to CFAF 50 000 (fifty thousand).
 
-## SECTION 176 False Excuse
+## SECTION 176: False Excuse
 
 Whoever falsely excuses himself under any of the last three foregoing Sections, shall be punished with imprisonment for from 1 (one) to 3 (three?
 months

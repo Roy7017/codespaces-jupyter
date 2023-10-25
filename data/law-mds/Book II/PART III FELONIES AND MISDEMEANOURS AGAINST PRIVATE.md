@@ -133,7 +133,7 @@ the course of a sport and in accordance with its rules.
 3. In any case not covered by subsection (1) (c) of this section, the
 driver of any vehicle involved in an accident who with intent to avoid his liability départs before being identifiée! shall be punished with imprisonment for from 1 (one) month to 1 (one) year and with fine of from CFAF 20 000 (twenty thousand) to CFAF 200 000 (two hundred thousand); and the Court may disqualify him for up to 2 (two) years from holding a driving license.
 
-## CHARTER II: PRIVATE LIBERTY AND TRANQUILITY
+## CHAPTER II: PRIVATE LIBERTY AND TRANQUILITY
 
 ## A - LIBERTY
 
@@ -765,7 +765,7 @@ shall be punished with imprisonment for from 1 (one) to 5 (five) years or with f
 
 1. Time shall begin to run again for prosecution on payment of the bride- price or of any instalment.
 
-## SECTION 358- Desertion
+## SECTION 358: Desertion
 
 1. Any spouse or parent who without just cause evades whether by desertion of the family home or otherwise howsoever, the whole or any part of his moral or material obligations towards his spouse or children shall be punished with imprisonment for from 3 (three) months to 1 (one) year or with fine of from CFAF 5 000 (five thousand) to CFAF 500 000 (five hundred thousand).
 2. Where a spouse alone has been deserted, no prosecution may be commenced without his or her complaint.

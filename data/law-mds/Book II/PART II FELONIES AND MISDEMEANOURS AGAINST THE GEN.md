@@ -71,11 +71,11 @@ Whoever organizes a political procession in any public establishment, school or 
 
 Upon conviction under section 233 above the Court may add the forfeitures described by section 30 of this Code
 
-## SECTION 235; Seditions Cries
+## SECTION 235: Seditions Cries
 
 Whoever in any place open to the public utters any seditious cry or song shall be punished with imprisonment for from 8 (eight) days to 1 (one) month, or with fine of from CFAF 2 000 (two thousand) to CFAF 50 000 (fifty thousand), or with both such imprisonment and fine.
 
-## SECTION 236; Depredation by Band
+## SECTION 236: Depredation by Band
 
 1. Whoever as a member of an assembly or band, and by open force, plunders or damages any moveable or immoveable property, shall be punished with imprisonment for from 10 (ten) to 20 (twenty) years.
 2. For such felony committed in a State of emergency or siege the punishment shall be imprisonment for life.
@@ -171,7 +171,7 @@ any operator of a commercial lottery who does not comply with the gaming rules s
 
 Whoever fails to comply with the standards and norms of safety, comfort and hygiene specific to casinos shall be punished with imprisonment for from 2 (two) to 4 (four) years, or fine of from CFAF 5 000 000 (five million) to CFAF10 000 000 (ten million) or both such imprisonment and fine.
 
-### SECTION 249-2; Violation of the terms of the spécifications attached to a concession agreement
+### SECTION 249-2: Violation of the terms of the spécifications attached to a concession agreement
 
 Whoever violates any of the terms of the specifications attached to a concession agreement shall be punished with imprisonment for from 2 (two) to 5 (five) years or fine of from CFAF 10 000 000 (ten million) to CFAF 50 000 000 (fifty million) or both such imprisonment and fine.
 
@@ -192,7 +192,7 @@ gaming access to the premises to be inspected shall be punished with imprisonmen
 
 Whoever. being a licensed operator of money games and games of chance transmits or broadcasts a commercial advertisement by any means whatsoever targeting minors, shall be punished with imprisonment for from 1 (one) to 3 (three) years or fine of from CFAF 10 000 000 (ten million) to CFA 20 000 000 (twenty million) or with both such imprisonment and fine.
 
-### SECTION 249-7; Forbidden Access in gaming and lotteries
+### SECTION 249-7: Forbidden Access in gaming and lotteries
 
 1. Whoever:
 - a) fails to take measures to block access of minors to a casino ;
@@ -271,7 +271,7 @@ decrease of the price of goods or public or private securities, shall be punishe
 
 Whoever with intent thereby to influence the market in foodstuffs whether for human or animal consumption causes or permits them to perish, rot or disappear from circulation, shall be punished with imprisonment for from 1 (one) to 5 (five) years and with fine of from CFAF 50 000 (fifty thousand) to CFAF 1 000 000 (one million).
 
-## CHARTER IV : PUBLIC HEALTH
+## CHAPTER IV : PUBLIC HEALTH
 
 ## SECTION 258: Adulteration of Foodstuffs
 
